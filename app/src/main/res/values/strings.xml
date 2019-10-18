@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week05</string>
+    <string name="newsHeadline">This is an example headline for a New York Times Article</string>
+    <string name="newsDetails">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non curabitur gravida arcu ac. Ullamcorper a lacus vestibulum sed. Suspendisse ultrices gravida dictum fusce ut placerat orci. Posuere ac ut consequat semper viverra nam libero justo laoreet. Risus viverra adipiscing at in tellus. Eu ultrices vitae auctor eu augue ut lectus. Sit amet aliquam id diam. Massa sapien faucibus et molestie ac feugiat sed lectus. Purus faucibus ornare suspendisse sed. Placerat duis ultricies lacus sed turpis tincidunt. </string>
+    <string name="newsTimeAgo">7h ago</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Blank Page</string>
+</resources>
